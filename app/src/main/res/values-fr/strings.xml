@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EventTest</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAeMQXpn0-Ju6aPCb6aEqptAHftXzId_9w</string>
+
+    <string name="ok">OK</string>
+    <string name="all_events">Carte de tous les évènements</string>
+    <string name="no">Non</string>
+    <string name="yes">OUI</string>
+    <string name="delete">Supprimer</string>
+    <string name="add_new_event">Ajoutez un nouvel évènement</string>
+    <string name="title">Titre : </string>
+    <string name="description">Description : </string>
+    <string name="address">Adresse : </string>
+    <string name="start_date">Date de début : </string>
+    <string name="end_date">Date de fin : </string>
+    <string name="confirm">Confirmer</string>
+    <string name="field_needed">ce champs est requis</string>
+    <string name="address_display">Adresse : </string>
+    <string name="no_events">Aucuns évènements</string>
+    <string name="no_address_found">Aucune adresse trouvée</string>
+    <string name="insert_success">Évènement enregistré</string>
+    <string name="insert_fail">Une erreur s\'est produite</string>
+    <string name="want_to_delete">Voulez-vous vraiement supprimé cet évènement?</string>
+</resources>
